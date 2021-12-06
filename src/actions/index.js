@@ -30,7 +30,6 @@ export const mPlus =()=>{
 export const mApply=()=>{
     return({type:MEMORY_APPLY})
 }
-
 export const mClear=()=>{
     return({type:MEMORY_CLEAR})
 }
